@@ -1,0 +1,4 @@
+format: jb-book
+root: Entregable2_Covertype
+chapters:
+  - file: bibliografia

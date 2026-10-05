@@ -1,0 +1,400 @@
+variable,variable_legible,grupo,id_clase,clase,coeficiente,abs_coeficiente,odds_ratio,rango_en_clase
+Soil_Type_2,Suelo 2,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-3.023047,3.023047,0.048653,1
+Soil_Type_37,Suelo 37,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-2.553834,2.553834,0.077783,2
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,1,Abeto/pícea (Spruce/Fir),-2.27469,2.27469,0.102829,3
+Soil_Type_4,Suelo 4,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-2.244848,2.244848,0.105944,4
+Soil_Type_9,Suelo 9,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),2.135687,2.135687,8.462856,5
+Wilderness_Area_1,Área: Rawah,Área silvestre,1,Abeto/pícea (Spruce/Fir),1.994795,1.994795,7.350695,6
+Soil_Type_3,Suelo 3,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-1.956689,1.956689,0.141326,7
+Soil_Type_21,Suelo 21,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),1.955532,1.955532,7.067677,8
+Soil_Type_22,Suelo 22,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),1.926743,1.926743,6.867106,9
+Elevation,Elevación (m),Continua,1,Abeto/pícea (Spruce/Fir),1.687632,1.687632,5.406663,10
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,1,Abeto/pícea (Spruce/Fir),1.652435,1.652435,5.219674,11
+Soil_Type_20,Suelo 20,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),1.468608,1.468608,4.343184,12
+Soil_Type_36,Suelo 36,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-1.460322,1.460322,0.232162,13
+Soil_Type_34,Suelo 34,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-1.454657,1.454657,0.23348,14
+Soil_Type_7,Suelo 7,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-1.317561,1.317561,0.267788,15
+Soil_Type_12,Suelo 12,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),1.30368,1.30368,3.682825,16
+Soil_Type_31,Suelo 31,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),1.066628,1.066628,2.905565,17
+Wilderness_Area_2,Área: Neota,Área silvestre,1,Abeto/pícea (Spruce/Fir),1.006445,1.006445,2.735856,18
+Soil_Type_24,Suelo 24,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.868183,0.868183,2.382579,19
+Soil_Type_17,Suelo 17,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.852183,0.852183,0.426483,20
+Soil_Type_33,Suelo 33,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.842582,0.842582,2.322355,21
+Soil_Type_28,Suelo 28,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.773409,0.773409,2.167143,22
+Soil_Type_23,Suelo 23,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.767488,0.767488,2.154348,23
+Soil_Type_27,Suelo 27,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.725995,0.725995,2.066786,24
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,1,Abeto/pícea (Spruce/Fir),-0.698275,0.698275,0.497443,25
+Soil_Type_30,Suelo 30,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.688349,0.688349,0.502405,26
+Soil_Type_6,Suelo 6,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.588465,0.588465,0.555179,27
+Soil_Type_16,Suelo 16,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.55414,0.55414,1.740444,28
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,1,Abeto/pícea (Spruce/Fir),-0.500407,0.500407,0.606284,29
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,1,Abeto/pícea (Spruce/Fir),-0.498572,0.498572,0.607397,30
+Soil_Type_19,Suelo 19,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.459445,0.459445,1.583196,31
+Soil_Type_35,Suelo 35,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.454636,0.454636,1.5756,32
+Soil_Type_39,Suelo 39,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.416349,0.416349,1.516415,33
+Soil_Type_26,Suelo 26,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.406152,0.406152,1.50103,34
+Soil_Type_18,Suelo 18,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.335035,0.335035,1.397989,35
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,1,Abeto/pícea (Spruce/Fir),-0.321981,0.321981,0.724712,36
+Aspect_cos,cos(orientación) → norte,Continua,1,Abeto/pícea (Spruce/Fir),0.29908,0.29908,1.348617,37
+Soil_Type_32,Suelo 32,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.251022,0.251022,0.778005,38
+Soil_Type_40,Suelo 40,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.232486,0.232486,1.261733,39
+Soil_Type_8,Suelo 8,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.230472,0.230472,1.259194,40
+Soil_Type_25,Suelo 25,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.211209,0.211209,1.23517,41
+Soil_Type_13,Suelo 13,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.201669,0.201669,0.817366,42
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,1,Abeto/pícea (Spruce/Fir),0.194717,0.194717,1.214967,43
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,1,Abeto/pícea (Spruce/Fir),-0.174836,0.174836,0.839595,44
+Soil_Type_29,Suelo 29,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.157498,0.157498,0.854278,45
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,1,Abeto/pícea (Spruce/Fir),0.150695,0.150695,1.162641,46
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,1,Abeto/pícea (Spruce/Fir),-0.135161,0.135161,0.873575,47
+Soil_Type_38,Suelo 38,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.123944,0.123944,1.131953,48
+Soil_Type_10,Suelo 10,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),0.118834,0.118834,1.126183,49
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,1,Abeto/pícea (Spruce/Fir),0.095356,0.095356,1.10005,50
+Soil_Type_14,Suelo 14,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.08392,0.08392,0.919505,51
+Soil_Type_11,Suelo 11,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.076765,0.076765,0.926108,52
+Aspect_sin,sen(orientación) → este,Continua,1,Abeto/pícea (Spruce/Fir),0.06089,0.06089,1.062782,53
+Slope,Pendiente (°),Continua,1,Abeto/pícea (Spruce/Fir),0.04517,0.04517,1.046206,54
+Soil_Type_5,Suelo 5,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.032294,0.032294,0.968222,55
+Soil_Type_1,Suelo 1,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-0.029545,0.029545,0.970887,56
+Soil_Type_15,Suelo 15,Tipo de suelo,1,Abeto/pícea (Spruce/Fir),-1e-06,1e-06,0.999999,57
+Soil_Type_1,Suelo 1,Tipo de suelo,2,Pino lodgepole,-2.669496,2.669496,0.069287,1
+Soil_Type_5,Suelo 5,Tipo de suelo,2,Pino lodgepole,-2.579044,2.579044,0.075846,2
+Soil_Type_4,Suelo 4,Tipo de suelo,2,Pino lodgepole,-1.839291,1.839291,0.15893,3
+Soil_Type_12,Suelo 12,Tipo de suelo,2,Pino lodgepole,1.771365,1.771365,5.878872,4
+Soil_Type_14,Suelo 14,Tipo de suelo,2,Pino lodgepole,-1.759358,1.759358,0.172155,5
+Soil_Type_35,Suelo 35,Tipo de suelo,2,Pino lodgepole,-1.672916,1.672916,0.187699,6
+Soil_Type_28,Suelo 28,Tipo de suelo,2,Pino lodgepole,1.609576,1.609576,5.000691,7
+Soil_Type_7,Suelo 7,Tipo de suelo,2,Pino lodgepole,1.37024,1.37024,3.936293,8
+Soil_Type_25,Suelo 25,Tipo de suelo,2,Pino lodgepole,1.333575,1.333575,3.794586,9
+Wilderness_Area_1,Área: Rawah,Área silvestre,2,Pino lodgepole,1.271223,1.271223,3.56521,10
+Soil_Type_31,Suelo 31,Tipo de suelo,2,Pino lodgepole,1.227286,1.227286,3.411957,11
+Soil_Type_17,Suelo 17,Tipo de suelo,2,Pino lodgepole,-1.20106,1.20106,0.300875,12
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,2,Pino lodgepole,-1.195632,1.195632,0.302513,13
+Soil_Type_21,Suelo 21,Tipo de suelo,2,Pino lodgepole,-1.147134,1.147134,0.317546,14
+Soil_Type_39,Suelo 39,Tipo de suelo,2,Pino lodgepole,-1.139892,1.139892,0.319854,15
+Soil_Type_22,Suelo 22,Tipo de suelo,2,Pino lodgepole,1.12394,1.12394,3.076955,16
+Soil_Type_26,Suelo 26,Tipo de suelo,2,Pino lodgepole,1.08326,1.08326,2.954296,17
+Soil_Type_33,Suelo 33,Tipo de suelo,2,Pino lodgepole,1.010287,1.010287,2.746388,18
+Wilderness_Area_2,Área: Neota,Área silvestre,2,Pino lodgepole,0.939585,0.939585,2.55892,19
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,2,Pino lodgepole,-0.919845,0.919845,0.398581,20
+Soil_Type_24,Suelo 24,Tipo de suelo,2,Pino lodgepole,0.875113,0.875113,2.399147,21
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,2,Pino lodgepole,-0.874972,0.874972,0.416874,22
+Soil_Type_20,Suelo 20,Tipo de suelo,2,Pino lodgepole,0.874157,0.874157,2.396854,23
+Soil_Type_37,Suelo 37,Tipo de suelo,2,Pino lodgepole,-0.858415,0.858415,0.423833,24
+Soil_Type_34,Suelo 34,Tipo de suelo,2,Pino lodgepole,0.836636,0.836636,2.308589,25
+Soil_Type_36,Suelo 36,Tipo de suelo,2,Pino lodgepole,0.793781,0.793781,2.211743,26
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,2,Pino lodgepole,0.738557,0.738557,2.092913,27
+Soil_Type_27,Suelo 27,Tipo de suelo,2,Pino lodgepole,0.701213,0.701213,2.016197,28
+Soil_Type_2,Suelo 2,Tipo de suelo,2,Pino lodgepole,-0.691142,0.691142,0.501004,29
+Soil_Type_3,Suelo 3,Tipo de suelo,2,Pino lodgepole,0.654875,0.654875,1.924902,30
+Soil_Type_38,Suelo 38,Tipo de suelo,2,Pino lodgepole,-0.648198,0.648198,0.522987,31
+Soil_Type_40,Suelo 40,Tipo de suelo,2,Pino lodgepole,-0.598868,0.598868,0.549433,32
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,2,Pino lodgepole,-0.548795,0.548795,0.577645,33
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,2,Pino lodgepole,0.526823,0.526823,1.693544,34
+Elevation,Elevación (m),Continua,2,Pino lodgepole,0.522265,0.522265,1.685841,35
+Soil_Type_9,Suelo 9,Tipo de suelo,2,Pino lodgepole,0.443596,0.443596,1.558301,36
+Soil_Type_13,Suelo 13,Tipo de suelo,2,Pino lodgepole,0.41156,0.41156,1.50917,37
+Soil_Type_30,Suelo 30,Tipo de suelo,2,Pino lodgepole,-0.382505,0.382505,0.68215,38
+Soil_Type_32,Suelo 32,Tipo de suelo,2,Pino lodgepole,0.34126,0.34126,1.406718,39
+Soil_Type_10,Suelo 10,Tipo de suelo,2,Pino lodgepole,0.295964,0.295964,1.344421,40
+Soil_Type_23,Suelo 23,Tipo de suelo,2,Pino lodgepole,0.275866,0.275866,1.317671,41
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,2,Pino lodgepole,0.271015,0.271015,1.311294,42
+Soil_Type_6,Suelo 6,Tipo de suelo,2,Pino lodgepole,-0.237358,0.237358,0.788709,43
+Soil_Type_11,Suelo 11,Tipo de suelo,2,Pino lodgepole,0.236604,0.236604,1.26694,44
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,2,Pino lodgepole,-0.220341,0.220341,0.802245,45
+Aspect_cos,cos(orientación) → norte,Continua,2,Pino lodgepole,0.179417,0.179417,1.196519,46
+Soil_Type_18,Suelo 18,Tipo de suelo,2,Pino lodgepole,0.166653,0.166653,1.181345,47
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,2,Pino lodgepole,-0.165304,0.165304,0.847636,48
+Soil_Type_16,Suelo 16,Tipo de suelo,2,Pino lodgepole,0.149861,0.149861,1.161672,49
+Soil_Type_19,Suelo 19,Tipo de suelo,2,Pino lodgepole,0.139665,0.139665,1.149888,50
+Soil_Type_29,Suelo 29,Tipo de suelo,2,Pino lodgepole,0.088219,0.088219,1.092227,51
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,2,Pino lodgepole,-0.086096,0.086096,0.917506,52
+Soil_Type_8,Suelo 8,Tipo de suelo,2,Pino lodgepole,0.081353,0.081353,1.084754,53
+Slope,Pendiente (°),Continua,2,Pino lodgepole,0.056148,0.056148,1.057754,54
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,2,Pino lodgepole,-0.027839,0.027839,0.972545,55
+Aspect_sin,sen(orientación) → este,Continua,2,Pino lodgepole,-0.025189,0.025189,0.975126,56
+Soil_Type_15,Suelo 15,Tipo de suelo,2,Pino lodgepole,-0.004847,0.004847,0.995165,57
+Soil_Type_33,Suelo 33,Tipo de suelo,3,Pino ponderosa,-2.589996,2.589996,0.07502,1
+Wilderness_Area_1,Área: Rawah,Área silvestre,3,Pino ponderosa,-2.549366,2.549366,0.078131,2
+Soil_Type_2,Suelo 2,Tipo de suelo,3,Pino ponderosa,2.328077,2.328077,10.258192,3
+Soil_Type_3,Suelo 3,Tipo de suelo,3,Pino ponderosa,2.20569,2.20569,9.076514,4
+Soil_Type_31,Suelo 31,Tipo de suelo,3,Pino ponderosa,-2.165109,2.165109,0.114737,5
+Soil_Type_24,Suelo 24,Tipo de suelo,3,Pino ponderosa,-1.863047,1.863047,0.155199,6
+Soil_Type_1,Suelo 1,Tipo de suelo,3,Pino ponderosa,1.82573,1.82573,6.207323,7
+Elevation,Elevación (m),Continua,3,Pino ponderosa,-1.787327,1.787327,0.167407,8
+Soil_Type_4,Suelo 4,Tipo de suelo,3,Pino ponderosa,1.765685,1.765685,5.845574,9
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,3,Pino ponderosa,-1.719707,1.719707,0.179119,10
+Soil_Type_28,Suelo 28,Tipo de suelo,3,Pino ponderosa,-1.664133,1.664133,0.189355,11
+Soil_Type_20,Suelo 20,Tipo de suelo,3,Pino ponderosa,-1.616724,1.616724,0.198548,12
+Soil_Type_5,Suelo 5,Tipo de suelo,3,Pino ponderosa,1.615721,1.615721,5.031512,13
+Soil_Type_6,Suelo 6,Tipo de suelo,3,Pino ponderosa,1.590281,1.590281,4.905125,14
+Soil_Type_23,Suelo 23,Tipo de suelo,3,Pino ponderosa,-1.494406,1.494406,0.224382,15
+Soil_Type_34,Suelo 34,Tipo de suelo,3,Pino ponderosa,-1.389205,1.389205,0.249273,16
+Soil_Type_14,Suelo 14,Tipo de suelo,3,Pino ponderosa,1.312612,1.312612,3.715865,17
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,3,Pino ponderosa,1.283828,1.283828,3.610433,18
+Soil_Type_26,Suelo 26,Tipo de suelo,3,Pino ponderosa,-1.169181,1.169181,0.310621,19
+Soil_Type_32,Suelo 32,Tipo de suelo,3,Pino ponderosa,1.137915,1.137915,3.120255,20
+Soil_Type_10,Suelo 10,Tipo de suelo,3,Pino ponderosa,1.111267,1.111267,3.038204,21
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,3,Pino ponderosa,1.100324,1.100324,3.005138,22
+Soil_Type_11,Suelo 11,Tipo de suelo,3,Pino ponderosa,0.913235,0.913235,2.492374,23
+Soil_Type_16,Suelo 16,Tipo de suelo,3,Pino ponderosa,0.862153,0.862153,2.368254,24
+Soil_Type_17,Suelo 17,Tipo de suelo,3,Pino ponderosa,0.845864,0.845864,2.329991,25
+Soil_Type_18,Suelo 18,Tipo de suelo,3,Pino ponderosa,-0.732218,0.732218,0.480841,26
+Soil_Type_29,Suelo 29,Tipo de suelo,3,Pino ponderosa,-0.645138,0.645138,0.52459,27
+Soil_Type_13,Suelo 13,Tipo de suelo,3,Pino ponderosa,-0.619207,0.619207,0.538371,28
+Aspect_cos,cos(orientación) → norte,Continua,3,Pino ponderosa,-0.591268,0.591268,0.553625,29
+Soil_Type_30,Suelo 30,Tipo de suelo,3,Pino ponderosa,-0.531955,0.531955,0.587455,30
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,3,Pino ponderosa,0.4952,0.4952,1.640826,31
+Soil_Type_15,Suelo 15,Tipo de suelo,3,Pino ponderosa,-0.381645,0.381645,0.682737,32
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,3,Pino ponderosa,0.35413,0.35413,1.424941,33
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,3,Pino ponderosa,0.348435,0.348435,1.416849,34
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,3,Pino ponderosa,-0.309932,0.309932,0.733497,35
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,3,Pino ponderosa,-0.305851,0.305851,0.736497,36
+Aspect_sin,sen(orientación) → este,Continua,3,Pino ponderosa,0.284984,0.284984,1.32974,37
+Soil_Type_19,Suelo 19,Tipo de suelo,3,Pino ponderosa,-0.249298,0.249298,0.779347,38
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,3,Pino ponderosa,-0.231683,0.231683,0.793197,39
+Soil_Type_9,Suelo 9,Tipo de suelo,3,Pino ponderosa,-0.218775,0.218775,0.803503,40
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,3,Pino ponderosa,-0.205441,0.205441,0.814288,41
+Soil_Type_22,Suelo 22,Tipo de suelo,3,Pino ponderosa,-0.14635,0.14635,0.863855,42
+Soil_Type_12,Suelo 12,Tipo de suelo,3,Pino ponderosa,-0.132833,0.132833,0.875611,43
+Slope,Pendiente (°),Continua,3,Pino ponderosa,-0.116478,0.116478,0.89005,44
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,3,Pino ponderosa,0.082718,0.082718,1.086235,45
+Soil_Type_39,Suelo 39,Tipo de suelo,3,Pino ponderosa,-0.023446,0.023446,0.976826,46
+Soil_Type_27,Suelo 27,Tipo de suelo,3,Pino ponderosa,-0.023145,0.023145,0.97712,47
+Soil_Type_21,Suelo 21,Tipo de suelo,3,Pino ponderosa,-0.015411,0.015411,0.984708,48
+Soil_Type_38,Suelo 38,Tipo de suelo,3,Pino ponderosa,-0.004883,0.004883,0.995129,49
+Wilderness_Area_2,Área: Neota,Área silvestre,3,Pino ponderosa,0.001891,0.001891,1.001893,50
+Soil_Type_40,Suelo 40,Tipo de suelo,3,Pino ponderosa,-0.000725,0.000725,0.999275,51
+Soil_Type_8,Suelo 8,Tipo de suelo,3,Pino ponderosa,-0.000505,0.000505,0.999495,52
+Soil_Type_36,Suelo 36,Tipo de suelo,3,Pino ponderosa,-0.000198,0.000198,0.999802,53
+Soil_Type_25,Suelo 25,Tipo de suelo,3,Pino ponderosa,0.000113,0.000113,1.000113,54
+Soil_Type_7,Suelo 7,Tipo de suelo,3,Pino ponderosa,-7.3e-05,7.3e-05,0.999927,55
+Soil_Type_35,Suelo 35,Tipo de suelo,3,Pino ponderosa,-5.7e-05,5.7e-05,0.999943,56
+Soil_Type_37,Suelo 37,Tipo de suelo,3,Pino ponderosa,-0.0,0.0,1.0,57
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,4,Álamo/sauce (Cottonwood/Willow),3.670627,3.670627,39.276506,1
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,4,Álamo/sauce (Cottonwood/Willow),-3.45935,3.45935,0.03145,2
+Elevation,Elevación (m),Continua,4,Álamo/sauce (Cottonwood/Willow),-2.588331,2.588331,0.075145,3
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,4,Álamo/sauce (Cottonwood/Willow),-2.562905,2.562905,0.077081,4
+Soil_Type_3,Suelo 3,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),1.903179,1.903179,6.707179,5
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,4,Álamo/sauce (Cottonwood/Willow),1.390109,1.390109,4.015289,6
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,4,Álamo/sauce (Cottonwood/Willow),1.16496,1.16496,3.205793,7
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,4,Álamo/sauce (Cottonwood/Willow),-1.003218,1.003218,0.366697,8
+Soil_Type_10,Suelo 10,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.983524,0.983524,0.373991,9
+Wilderness_Area_1,Área: Rawah,Área silvestre,4,Álamo/sauce (Cottonwood/Willow),-0.93204,0.93204,0.39375,10
+Soil_Type_17,Suelo 17,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.87544,0.87544,2.399931,11
+Soil_Type_14,Suelo 14,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.820532,0.820532,2.271707,12
+Soil_Type_16,Suelo 16,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.802229,0.802229,0.448329,13
+Soil_Type_15,Suelo 15,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.533479,0.533479,0.586561,14
+Aspect_cos,cos(orientación) → norte,Continua,4,Álamo/sauce (Cottonwood/Willow),-0.50191,0.50191,0.605373,15
+Soil_Type_1,Suelo 1,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.451027,0.451027,0.636973,16
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,4,Álamo/sauce (Cottonwood/Willow),0.449247,0.449247,1.567131,17
+Soil_Type_18,Suelo 18,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.361594,0.361594,0.696565,18
+Soil_Type_5,Suelo 5,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.355762,0.355762,0.700639,19
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,4,Álamo/sauce (Cottonwood/Willow),0.261484,0.261484,1.298856,20
+Soil_Type_20,Suelo 20,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.221824,0.221824,0.801057,21
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,4,Álamo/sauce (Cottonwood/Willow),0.201158,0.201158,1.222818,22
+Soil_Type_30,Suelo 30,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.196802,0.196802,0.821353,23
+Soil_Type_6,Suelo 6,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.190999,0.190999,0.826134,24
+Slope,Pendiente (°),Continua,4,Álamo/sauce (Cottonwood/Willow),-0.166929,0.166929,0.84626,25
+Aspect_sin,sen(orientación) → este,Continua,4,Álamo/sauce (Cottonwood/Willow),0.165367,0.165367,1.179826,26
+Soil_Type_29,Suelo 29,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.14242,0.14242,0.867257,27
+Soil_Type_4,Suelo 4,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.130155,0.130155,0.87796,28
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,4,Álamo/sauce (Cottonwood/Willow),-0.093485,0.093485,0.910752,29
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,4,Álamo/sauce (Cottonwood/Willow),-0.063514,0.063514,0.938461,30
+Soil_Type_11,Suelo 11,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.061689,0.061689,1.063631,31
+Soil_Type_2,Suelo 2,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.033488,0.033488,1.034055,32
+Soil_Type_9,Suelo 9,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.032326,0.032326,0.968191,33
+Soil_Type_23,Suelo 23,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.022687,0.022687,0.977569,34
+Soil_Type_12,Suelo 12,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.012359,0.012359,0.987717,35
+Soil_Type_33,Suelo 33,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.008468,0.008468,1.008504,36
+Wilderness_Area_2,Área: Neota,Área silvestre,4,Álamo/sauce (Cottonwood/Willow),0.008336,0.008336,1.008371,37
+Soil_Type_32,Suelo 32,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.00673,0.00673,1.006752,38
+Soil_Type_22,Suelo 22,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.006729,0.006729,1.006752,39
+Soil_Type_13,Suelo 13,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.006466,0.006466,0.993555,40
+Soil_Type_31,Suelo 31,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.006269,0.006269,1.006288,41
+Soil_Type_24,Suelo 24,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.004163,0.004163,1.004172,42
+Soil_Type_38,Suelo 38,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.002252,0.002252,1.002254,43
+Soil_Type_39,Suelo 39,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.002225,0.002225,1.002227,44
+Soil_Type_34,Suelo 34,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.001618,0.001618,0.998383,45
+Soil_Type_40,Suelo 40,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.001214,0.001214,1.001215,46
+Soil_Type_27,Suelo 27,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.000333,0.000333,1.000333,47
+Soil_Type_28,Suelo 28,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.000299,0.000299,0.999701,48
+Soil_Type_21,Suelo 21,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.000285,0.000285,1.000285,49
+Soil_Type_35,Suelo 35,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.000285,0.000285,1.000285,50
+Soil_Type_25,Suelo 25,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),0.000176,0.000176,1.000176,51
+Soil_Type_19,Suelo 19,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.00017,0.00017,0.999831,52
+Soil_Type_26,Suelo 26,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-0.000147,0.000147,0.999853,53
+Soil_Type_8,Suelo 8,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),-5.5e-05,5.5e-05,0.999945,54
+Soil_Type_37,Suelo 37,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),2.9e-05,2.9e-05,1.000029,55
+Soil_Type_36,Suelo 36,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),2e-05,2e-05,1.00002,56
+Soil_Type_7,Suelo 7,Tipo de suelo,4,Álamo/sauce (Cottonwood/Willow),1e-05,1e-05,1.00001,57
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,5,Álamo temblón (Aspen),-3.513861,3.513861,0.029782,1
+Wilderness_Area_1,Área: Rawah,Área silvestre,5,Álamo temblón (Aspen),3.19471,3.19471,24.403092,2
+Soil_Type_3,Suelo 3,Tipo de suelo,5,Álamo temblón (Aspen),-2.800543,2.800543,0.060777,3
+Soil_Type_12,Suelo 12,Tipo de suelo,5,Álamo temblón (Aspen),-2.668041,2.668041,0.069388,4
+Soil_Type_26,Suelo 26,Tipo de suelo,5,Álamo temblón (Aspen),2.347024,2.347024,10.454409,5
+Soil_Type_9,Suelo 9,Tipo de suelo,5,Álamo temblón (Aspen),-2.155731,2.155731,0.115818,6
+Soil_Type_22,Suelo 22,Tipo de suelo,5,Álamo temblón (Aspen),-2.04811,2.04811,0.128978,7
+Soil_Type_19,Suelo 19,Tipo de suelo,5,Álamo temblón (Aspen),1.8308,1.8308,6.238878,8
+Soil_Type_14,Suelo 14,Tipo de suelo,5,Álamo temblón (Aspen),-1.635237,1.635237,0.194906,9
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,5,Álamo temblón (Aspen),1.632137,1.632137,5.114795,10
+Soil_Type_13,Suelo 13,Tipo de suelo,5,Álamo temblón (Aspen),1.614521,1.614521,5.025479,11
+Soil_Type_18,Suelo 18,Tipo de suelo,5,Álamo temblón (Aspen),1.597853,1.597853,4.942411,12
+Soil_Type_30,Suelo 30,Tipo de suelo,5,Álamo temblón (Aspen),1.394551,1.394551,4.033162,13
+Soil_Type_17,Suelo 17,Tipo de suelo,5,Álamo temblón (Aspen),1.361627,1.361627,3.902538,14
+Soil_Type_31,Suelo 31,Tipo de suelo,5,Álamo temblón (Aspen),1.347881,1.347881,3.849259,15
+Soil_Type_23,Suelo 23,Tipo de suelo,5,Álamo temblón (Aspen),1.339237,1.339237,3.816129,16
+Wilderness_Area_2,Área: Neota,Área silvestre,5,Álamo temblón (Aspen),-1.270499,1.270499,0.280691,17
+Soil_Type_28,Suelo 28,Tipo de suelo,5,Álamo temblón (Aspen),1.212924,1.212924,3.363303,18
+Soil_Type_39,Suelo 39,Tipo de suelo,5,Álamo temblón (Aspen),-1.184745,1.184745,0.305824,19
+Soil_Type_27,Suelo 27,Tipo de suelo,5,Álamo temblón (Aspen),-1.108904,1.108904,0.329921,20
+Soil_Type_38,Suelo 38,Tipo de suelo,5,Álamo temblón (Aspen),-0.974083,0.974083,0.377538,21
+Aspect_sin,sen(orientación) → este,Continua,5,Álamo temblón (Aspen),-0.815673,0.815673,0.442342,22
+Soil_Type_33,Suelo 33,Tipo de suelo,5,Álamo temblón (Aspen),0.8108,0.8108,2.249707,23
+Soil_Type_2,Suelo 2,Tipo de suelo,5,Álamo temblón (Aspen),0.810033,0.810033,2.247983,24
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,5,Álamo temblón (Aspen),-0.717754,0.717754,0.487847,25
+Soil_Type_6,Suelo 6,Tipo de suelo,5,Álamo temblón (Aspen),-0.709678,0.709678,0.491803,26
+Soil_Type_11,Suelo 11,Tipo de suelo,5,Álamo temblón (Aspen),0.676213,0.676213,1.966418,27
+Soil_Type_21,Suelo 21,Tipo de suelo,5,Álamo temblón (Aspen),-0.667568,0.667568,0.512955,28
+Soil_Type_29,Suelo 29,Tipo de suelo,5,Álamo temblón (Aspen),0.655019,0.655019,1.92518,29
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,5,Álamo temblón (Aspen),0.637149,0.637149,1.891082,30
+Soil_Type_40,Suelo 40,Tipo de suelo,5,Álamo temblón (Aspen),-0.592046,0.592046,0.553194,31
+Soil_Type_34,Suelo 34,Tipo de suelo,5,Álamo temblón (Aspen),0.459981,0.459981,1.584044,32
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,5,Álamo temblón (Aspen),-0.383436,0.383436,0.681516,33
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,5,Álamo temblón (Aspen),-0.348394,0.348394,0.705821,34
+Soil_Type_4,Suelo 4,Tipo de suelo,5,Álamo temblón (Aspen),-0.335532,0.335532,0.714958,35
+Soil_Type_32,Suelo 32,Tipo de suelo,5,Álamo temblón (Aspen),0.329413,0.329413,1.390151,36
+Soil_Type_10,Suelo 10,Tipo de suelo,5,Álamo temblón (Aspen),-0.325279,0.325279,0.722326,37
+Aspect_cos,cos(orientación) → norte,Continua,5,Álamo temblón (Aspen),0.303692,0.303692,1.354852,38
+Soil_Type_8,Suelo 8,Tipo de suelo,5,Álamo temblón (Aspen),-0.301172,0.301172,0.73995,39
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,5,Álamo temblón (Aspen),0.258394,0.258394,1.294849,40
+Slope,Pendiente (°),Continua,5,Álamo temblón (Aspen),0.239091,0.239091,1.270094,41
+Soil_Type_35,Suelo 35,Tipo de suelo,5,Álamo temblón (Aspen),-0.189525,0.189525,0.827352,42
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,5,Álamo temblón (Aspen),0.169028,0.169028,1.184153,43
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,5,Álamo temblón (Aspen),0.158757,0.158757,1.172053,44
+Soil_Type_20,Suelo 20,Tipo de suelo,5,Álamo temblón (Aspen),0.151892,0.151892,1.164035,45
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,5,Álamo temblón (Aspen),-0.15031,0.15031,0.860441,46
+Elevation,Elevación (m),Continua,5,Álamo temblón (Aspen),0.099542,0.099542,1.104665,47
+Soil_Type_36,Suelo 36,Tipo de suelo,5,Álamo temblón (Aspen),-0.072917,0.072917,0.929678,48
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,5,Álamo temblón (Aspen),0.064241,0.064241,1.06635,49
+Soil_Type_7,Suelo 7,Tipo de suelo,5,Álamo temblón (Aspen),-0.051418,0.051418,0.949882,50
+Soil_Type_24,Suelo 24,Tipo de suelo,5,Álamo temblón (Aspen),-0.034772,0.034772,0.965825,51
+Soil_Type_1,Suelo 1,Tipo de suelo,5,Álamo temblón (Aspen),-0.031013,0.031013,0.969463,52
+Soil_Type_16,Suelo 16,Tipo de suelo,5,Álamo temblón (Aspen),0.030334,0.030334,1.030799,53
+Soil_Type_5,Suelo 5,Tipo de suelo,5,Álamo temblón (Aspen),-0.02689,0.02689,0.973469,54
+Soil_Type_25,Suelo 25,Tipo de suelo,5,Álamo temblón (Aspen),-0.012441,0.012441,0.987636,55
+Soil_Type_37,Suelo 37,Tipo de suelo,5,Álamo temblón (Aspen),-0.001957,0.001957,0.998045,56
+Soil_Type_15,Suelo 15,Tipo de suelo,5,Álamo temblón (Aspen),-1.5e-05,1.5e-05,0.999985,57
+Wilderness_Area_1,Área: Rawah,Área silvestre,6,Abeto de Douglas,-3.069234,3.069234,0.046457,1
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,6,Abeto de Douglas,2.93577,2.93577,18.836001,2
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,6,Abeto de Douglas,1.994018,1.994018,7.344986,3
+Soil_Type_28,Suelo 28,Tipo de suelo,6,Abeto de Douglas,-1.925947,1.925947,0.145738,4
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,6,Abeto de Douglas,-1.743303,1.743303,0.174942,5
+Soil_Type_26,Suelo 26,Tipo de suelo,6,Abeto de Douglas,-1.702406,1.702406,0.182245,6
+Elevation,Elevación (m),Continua,6,Abeto de Douglas,-1.692781,1.692781,0.184007,7
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,6,Abeto de Douglas,-1.615447,1.615447,0.198802,8
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,6,Abeto de Douglas,1.600261,1.600261,4.954325,9
+Soil_Type_34,Suelo 34,Tipo de suelo,6,Abeto de Douglas,1.439927,1.439927,4.22039,10
+Soil_Type_13,Suelo 13,Tipo de suelo,6,Abeto de Douglas,1.394764,1.394764,4.034022,11
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,6,Abeto de Douglas,1.380815,1.380815,3.978141,12
+Soil_Type_5,Suelo 5,Tipo de suelo,6,Abeto de Douglas,1.378211,1.378211,3.967796,13
+Soil_Type_1,Suelo 1,Tipo de suelo,6,Abeto de Douglas,1.355233,1.355233,3.877665,14
+Soil_Type_14,Suelo 14,Tipo de suelo,6,Abeto de Douglas,1.34534,1.34534,3.839493,15
+Soil_Type_11,Suelo 11,Tipo de suelo,6,Abeto de Douglas,-1.266014,1.266014,0.281953,16
+Soil_Type_4,Suelo 4,Tipo de suelo,6,Abeto de Douglas,-0.996874,0.996874,0.369031,17
+Soil_Type_15,Suelo 15,Tipo de suelo,6,Abeto de Douglas,0.919987,0.919987,2.509257,18
+Soil_Type_19,Suelo 19,Tipo de suelo,6,Abeto de Douglas,-0.908843,0.908843,0.40299,19
+Soil_Type_29,Suelo 29,Tipo de suelo,6,Abeto de Douglas,-0.792602,0.792602,0.452665,20
+Soil_Type_18,Suelo 18,Tipo de suelo,6,Abeto de Douglas,-0.74074,0.74074,0.476761,21
+Soil_Type_22,Suelo 22,Tipo de suelo,6,Abeto de Douglas,-0.735285,0.735285,0.479369,22
+Soil_Type_20,Suelo 20,Tipo de suelo,6,Abeto de Douglas,0.615219,0.615219,1.850061,23
+Soil_Type_31,Suelo 31,Tipo de suelo,6,Abeto de Douglas,-0.573075,0.573075,0.563789,24
+Soil_Type_33,Suelo 33,Tipo de suelo,6,Abeto de Douglas,0.56184,0.56184,1.753897,25
+Soil_Type_2,Suelo 2,Tipo de suelo,6,Abeto de Douglas,0.560645,0.560645,1.751802,26
+Soil_Type_32,Suelo 32,Tipo de suelo,6,Abeto de Douglas,0.560384,0.560384,1.751345,27
+Soil_Type_24,Suelo 24,Tipo de suelo,6,Abeto de Douglas,0.518548,0.518548,1.679586,28
+Soil_Type_30,Suelo 30,Tipo de suelo,6,Abeto de Douglas,-0.51617,0.51617,0.596802,29
+Soil_Type_23,Suelo 23,Tipo de suelo,6,Abeto de Douglas,-0.453324,0.453324,0.635512,30
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,6,Abeto de Douglas,-0.353734,0.353734,0.702062,31
+Soil_Type_16,Suelo 16,Tipo de suelo,6,Abeto de Douglas,0.324854,0.324854,1.383829,32
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,6,Abeto de Douglas,0.312172,0.312172,1.366389,33
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,6,Abeto de Douglas,0.279506,0.279506,1.322476,34
+Soil_Type_10,Suelo 10,Tipo de suelo,6,Abeto de Douglas,0.195128,0.195128,1.215467,35
+Soil_Type_9,Suelo 9,Tipo de suelo,6,Abeto de Douglas,-0.172575,0.172575,0.841495,36
+Soil_Type_12,Suelo 12,Tipo de suelo,6,Abeto de Douglas,-0.149824,0.149824,0.860859,37
+Soil_Type_17,Suelo 17,Tipo de suelo,6,Abeto de Douglas,-0.148125,0.148125,0.862323,38
+Soil_Type_39,Suelo 39,Tipo de suelo,6,Abeto de Douglas,-0.139959,0.139959,0.869393,39
+Soil_Type_6,Suelo 6,Tipo de suelo,6,Abeto de Douglas,0.135565,0.135565,1.145183,40
+Soil_Type_21,Suelo 21,Tipo de suelo,6,Abeto de Douglas,-0.122715,0.122715,0.884516,41
+Slope,Pendiente (°),Continua,6,Abeto de Douglas,0.094457,0.094457,1.099062,42
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,6,Abeto de Douglas,-0.075102,0.075102,0.927649,43
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,6,Abeto de Douglas,0.059907,0.059907,1.061738,44
+Soil_Type_27,Suelo 27,Tipo de suelo,6,Abeto de Douglas,-0.036495,0.036495,0.964163,45
+Aspect_sin,sen(orientación) → este,Continua,6,Abeto de Douglas,0.031818,0.031818,1.03233,46
+Aspect_cos,cos(orientación) → norte,Continua,6,Abeto de Douglas,-0.014925,0.014925,0.985186,47
+Soil_Type_38,Suelo 38,Tipo de suelo,6,Abeto de Douglas,-0.006096,0.006096,0.993922,48
+Soil_Type_3,Suelo 3,Tipo de suelo,6,Abeto de Douglas,-0.005883,0.005883,0.994135,49
+Wilderness_Area_2,Área: Neota,Área silvestre,6,Abeto de Douglas,-0.002624,0.002624,0.99738,50
+Soil_Type_40,Suelo 40,Tipo de suelo,6,Abeto de Douglas,-0.001883,0.001883,0.998118,51
+Soil_Type_8,Suelo 8,Tipo de suelo,6,Abeto de Douglas,-0.001021,0.001021,0.998979,52
+Soil_Type_35,Suelo 35,Tipo de suelo,6,Abeto de Douglas,-0.000364,0.000364,0.999636,53
+Soil_Type_7,Suelo 7,Tipo de suelo,6,Abeto de Douglas,-0.00018,0.00018,0.99982,54
+Soil_Type_36,Suelo 36,Tipo de suelo,6,Abeto de Douglas,-0.000122,0.000122,0.999878,55
+Soil_Type_25,Suelo 25,Tipo de suelo,6,Abeto de Douglas,8e-05,8e-05,1.00008,56
+Soil_Type_37,Suelo 37,Tipo de suelo,6,Abeto de Douglas,1.6e-05,1.6e-05,1.000016,57
+Soil_Type_4,Suelo 4,Tipo de suelo,7,Krummholz,3.781015,3.781015,43.860554,1
+Elevation,Elevación (m),Continua,7,Krummholz,3.759001,3.759001,42.905533,2
+Elevation_Minus_VDH,Elevación relativa al agua,Continua,7,Krummholz,3.654559,3.654559,38.650478,3
+Soil_Type_37,Suelo 37,Tipo de suelo,7,Krummholz,3.414161,3.414161,30.391453,4
+Soil_Type_13,Suelo 13,Tipo de suelo,7,Krummholz,-2.593503,2.593503,0.074758,5
+Soil_Type_32,Suelo 32,Tipo de suelo,7,Krummholz,-2.124678,2.124678,0.119471,6
+Soil_Type_39,Suelo 39,Tipo de suelo,7,Krummholz,2.069469,2.069469,7.92062,7
+Soil_Type_25,Suelo 25,Tipo de suelo,7,Krummholz,-1.532713,1.532713,0.215949,8
+Soil_Type_38,Suelo 38,Tipo de suelo,7,Krummholz,1.507064,1.507064,4.513461,9
+Hillshade_3pm,Sombreado 3 p. m. (0-255),Continua,7,Krummholz,-1.418838,1.418838,0.241995,10
+Soil_Type_35,Suelo 35,Tipo de suelo,7,Krummholz,1.407941,1.407941,4.087531,11
+Hillshade_9am,Sombreado 9 a. m. (0-255),Continua,7,Krummholz,-1.275483,1.275483,0.279296,12
+Soil_Type_19,Suelo 19,Tipo de suelo,7,Krummholz,-1.2716,1.2716,0.280383,13
+Soil_Type_20,Suelo 20,Tipo de suelo,7,Krummholz,-1.271328,1.271328,0.280459,14
+Soil_Type_16,Suelo 16,Tipo de suelo,7,Krummholz,-1.119113,1.119113,0.326569,15
+Soil_Type_29,Suelo 29,Tipo de suelo,7,Krummholz,0.994421,0.994421,2.703158,16
+Soil_Type_26,Suelo 26,Tipo de suelo,7,Krummholz,-0.964703,0.964703,0.381096,17
+Soil_Type_40,Suelo 40,Tipo de suelo,7,Krummholz,0.959822,0.959822,2.611232,18
+Soil_Type_30,Suelo 30,Tipo de suelo,7,Krummholz,0.921232,0.921232,2.512383,19
+Soil_Type_31,Suelo 31,Tipo de suelo,7,Krummholz,-0.90988,0.90988,0.402573,20
+Soil_Type_17,Suelo 17,Tipo de suelo,7,Krummholz,-0.881563,0.881563,0.414135,21
+Dist_Hydrology_Euclid,Dist. euclidiana a agua,Continua,7,Krummholz,-0.741065,0.741065,0.476606,22
+Soil_Type_36,Suelo 36,Tipo de suelo,7,Krummholz,0.739757,0.739757,2.095425,23
+Wilderness_Area_2,Área: Neota,Área silvestre,7,Krummholz,-0.683133,0.683133,0.505032,24
+Hillshade_Noon,Sombreado mediodía (0-255),Continua,7,Krummholz,0.660409,0.660409,1.935585,25
+Wilderness_Area_3,Área: Comanche Peak,Área silvestre,7,Krummholz,0.644241,0.644241,1.904541,26
+Soil_Type_33,Suelo 33,Tipo de suelo,7,Krummholz,-0.643981,0.643981,0.525198,27
+Soil_Type_11,Suelo 11,Tipo de suelo,7,Krummholz,-0.544963,0.544963,0.579863,28
+Horizontal_Distance_To_Roadways,log Dist. a carreteras,Continua,7,Krummholz,-0.46929,0.46929,0.625446,29
+Vertical_Distance_To_Hydrology,Dist. vertical a agua (m),Continua,7,Krummholz,0.461186,0.461186,1.585953,30
+Soil_Type_10,Suelo 10,Tipo de suelo,7,Krummholz,-0.41239,0.41239,0.662066,31
+Soil_Type_23,Suelo 23,Tipo de suelo,7,Krummholz,-0.412175,0.412175,0.662209,32
+Soil_Type_24,Suelo 24,Tipo de suelo,7,Krummholz,-0.368187,0.368187,0.691988,33
+Aspect_cos,cos(orientación) → norte,Continua,7,Krummholz,0.325914,0.325914,1.385296,34
+Aspect_sin,sen(orientación) → este,Continua,7,Krummholz,0.297803,0.297803,1.346896,35
+Soil_Type_18,Suelo 18,Tipo de suelo,7,Krummholz,-0.26499,0.26499,0.767214,36
+Soil_Type_27,Suelo 27,Tipo de suelo,7,Krummholz,-0.258997,0.258997,0.771825,37
+Horizontal_Distance_To_Fire_Points,log Dist. a puntos de incendio,Continua,7,Krummholz,0.255618,0.255618,1.291259,38
+Horizontal_Distance_To_Hydrology,log Dist. horizontal a agua,Continua,7,Krummholz,-0.188211,0.188211,0.82844,39
+Slope,Pendiente (°),Continua,7,Krummholz,-0.151459,0.151459,0.859453,40
+Soil_Type_22,Suelo 22,Tipo de suelo,7,Krummholz,-0.127666,0.127666,0.880147,41
+Soil_Type_12,Suelo 12,Tipo de suelo,7,Krummholz,-0.111988,0.111988,0.894055,42
+Soil_Type_34,Suelo 34,Tipo de suelo,7,Krummholz,0.108935,0.108935,1.11509,43
+Wilderness_Area_1,Área: Rawah,Área silvestre,7,Krummholz,0.089912,0.089912,1.094078,44
+Soil_Type_2,Suelo 2,Tipo de suelo,7,Krummholz,-0.018054,0.018054,0.982108,45
+Soil_Type_8,Suelo 8,Tipo de suelo,7,Krummholz,-0.009071,0.009071,0.990971,46
+Soil_Type_28,Suelo 28,Tipo de suelo,7,Krummholz,-0.00553,0.00553,0.994485,47
+Soil_Type_21,Suelo 21,Tipo de suelo,7,Krummholz,-0.002989,0.002989,0.997015,48
+Wilderness_Area_4,Área: Cache la Poudre,Área silvestre,7,Krummholz,0.002077,0.002077,1.002079,49
+Soil_Type_7,Suelo 7,Tipo de suelo,7,Krummholz,-0.001017,0.001017,0.998983,50
+Soil_Type_6,Suelo 6,Tipo de suelo,7,Krummholz,0.000655,0.000655,1.000655,51
+Soil_Type_3,Suelo 3,Tipo de suelo,7,Krummholz,-0.000629,0.000629,0.999371,52
+Soil_Type_9,Suelo 9,Tipo de suelo,7,Krummholz,0.000125,0.000125,1.000125,53
+Soil_Type_1,Suelo 1,Tipo de suelo,7,Krummholz,0.000118,0.000118,1.000118,54
+Soil_Type_5,Suelo 5,Tipo de suelo,7,Krummholz,5.8e-05,5.8e-05,1.000058,55
+Soil_Type_14,Suelo 14,Tipo de suelo,7,Krummholz,3.2e-05,3.2e-05,1.000032,56
+Soil_Type_15,Suelo 15,Tipo de suelo,7,Krummholz,0.0,0.0,1.0,57

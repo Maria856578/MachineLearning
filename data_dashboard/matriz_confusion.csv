@@ -1,0 +1,50 @@
+id_real,clase_real,id_predicha,clase_predicha,conteo,prop_real,prop_predicha
+1,Abeto/pícea (Spruce/Fir),1,Abeto/pícea (Spruce/Fir),29497,0.696209,0.709625
+1,Abeto/pícea (Spruce/Fir),2,Pino lodgepole,12076,0.285026,0.199274
+1,Abeto/pícea (Spruce/Fir),3,Pino ponderosa,16,0.000378,0.001937
+1,Abeto/pícea (Spruce/Fir),4,Álamo/sauce (Cottonwood/Willow),0,0.0,0.0
+1,Abeto/pícea (Spruce/Fir),5,Álamo temblón (Aspen),3,7.1e-05,0.01875
+1,Abeto/pícea (Spruce/Fir),6,Abeto de Douglas,17,0.000401,0.008068
+1,Abeto/pícea (Spruce/Fir),7,Krummholz,759,0.017914,0.245552
+2,Pino lodgepole,1,Abeto/pícea (Spruce/Fir),10273,0.181306,0.247143
+2,Pino lodgepole,2,Pino lodgepole,45241,0.79845,0.746551
+2,Pino lodgepole,3,Pino ponderosa,710,0.012531,0.085956
+2,Pino lodgepole,4,Álamo/sauce (Cottonwood/Willow),3,5.3e-05,0.007177
+2,Pino lodgepole,5,Álamo temblón (Aspen),50,0.000882,0.3125
+2,Pino lodgepole,6,Abeto de Douglas,349,0.006159,0.165638
+2,Pino lodgepole,7,Krummholz,35,0.000618,0.011323
+3,Pino ponderosa,1,Abeto/pícea (Spruce/Fir),0,0.0,0.0
+3,Pino ponderosa,2,Pino lodgepole,720,0.100685,0.011881
+3,Pino ponderosa,3,Pino ponderosa,5702,0.797371,0.690315
+3,Pino ponderosa,4,Álamo/sauce (Cottonwood/Willow),105,0.014683,0.251196
+3,Pino ponderosa,5,Álamo temblón (Aspen),6,0.000839,0.0375
+3,Pino ponderosa,6,Abeto de Douglas,618,0.086421,0.293308
+3,Pino ponderosa,7,Krummholz,0,0.0,0.0
+4,Álamo/sauce (Cottonwood/Willow),1,Abeto/pícea (Spruce/Fir),0,0.0,0.0
+4,Álamo/sauce (Cottonwood/Willow),2,Pino lodgepole,2,0.003643,3.3e-05
+4,Álamo/sauce (Cottonwood/Willow),3,Pino ponderosa,199,0.362477,0.024092
+4,Álamo/sauce (Cottonwood/Willow),4,Álamo/sauce (Cottonwood/Willow),289,0.526412,0.691388
+4,Álamo/sauce (Cottonwood/Willow),5,Álamo temblón (Aspen),0,0.0,0.0
+4,Álamo/sauce (Cottonwood/Willow),6,Abeto de Douglas,59,0.107468,0.028002
+4,Álamo/sauce (Cottonwood/Willow),7,Krummholz,0,0.0,0.0
+5,Álamo temblón (Aspen),1,Abeto/pícea (Spruce/Fir),29,0.015271,0.000698
+5,Álamo temblón (Aspen),2,Pino lodgepole,1722,0.906793,0.028416
+5,Álamo temblón (Aspen),3,Pino ponderosa,47,0.02475,0.00569
+5,Álamo temblón (Aspen),4,Álamo/sauce (Cottonwood/Willow),0,0.0,0.0
+5,Álamo temblón (Aspen),5,Álamo temblón (Aspen),79,0.041601,0.49375
+5,Álamo temblón (Aspen),6,Abeto de Douglas,22,0.011585,0.010441
+5,Álamo temblón (Aspen),7,Krummholz,0,0.0,0.0
+6,Abeto de Douglas,1,Abeto/pícea (Spruce/Fir),0,0.0,0.0
+6,Abeto de Douglas,2,Pino lodgepole,802,0.230924,0.013234
+6,Abeto de Douglas,3,Pino ponderosa,1586,0.456666,0.19201
+6,Abeto de Douglas,4,Álamo/sauce (Cottonwood/Willow),21,0.006047,0.050239
+6,Abeto de Douglas,5,Álamo temblón (Aspen),22,0.006335,0.1375
+6,Abeto de Douglas,6,Abeto de Douglas,1042,0.300029,0.494542
+6,Abeto de Douglas,7,Krummholz,0,0.0,0.0
+7,Krummholz,1,Abeto/pícea (Spruce/Fir),1768,0.431009,0.042534
+7,Krummholz,2,Pino lodgepole,37,0.00902,0.000611
+7,Krummholz,3,Pino ponderosa,0,0.0,0.0
+7,Krummholz,4,Álamo/sauce (Cottonwood/Willow),0,0.0,0.0
+7,Krummholz,5,Álamo temblón (Aspen),0,0.0,0.0
+7,Krummholz,6,Abeto de Douglas,0,0.0,0.0
+7,Krummholz,7,Krummholz,2297,0.559971,0.743125

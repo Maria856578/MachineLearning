@@ -1,0 +1,31 @@
+modelo,tipo,conjunto,metrica,valor,ic_inferior,ic_superior
+Dummy (más frecuente),Línea base trivial,prueba,Accuracy,0.487604,,
+Dummy (más frecuente),Línea base trivial,prueba,Precisión macro,0.069658,,
+Dummy (más frecuente),Línea base trivial,prueba,Recall macro,0.142857,,
+Dummy (más frecuente),Línea base trivial,prueba,F1 macro,0.093651,,
+Dummy (más frecuente),Línea base trivial,prueba,Exactitud balanceada,0.142857,,
+Dummy (más frecuente),Línea base trivial,prueba,F1 ponderado,0.319651,,
+Dummy (uniforme),Línea base trivial,prueba,Accuracy,0.142526,,
+Dummy (uniforme),Línea base trivial,prueba,Precisión macro,0.142344,,
+Dummy (uniforme),Línea base trivial,prueba,Recall macro,0.145301,,
+Dummy (uniforme),Línea base trivial,prueba,F1 macro,0.093991,,
+Dummy (uniforme),Línea base trivial,prueba,Exactitud balanceada,0.145301,,
+Dummy (uniforme),Línea base trivial,prueba,F1 ponderado,0.191114,,
+Dummy (estratificado),Línea base trivial,prueba,Accuracy,0.374078,,
+Dummy (estratificado),Línea base trivial,prueba,Precisión macro,0.141442,,
+Dummy (estratificado),Línea base trivial,prueba,Recall macro,0.141463,,
+Dummy (estratificado),Línea base trivial,prueba,F1 macro,0.141451,,
+Dummy (estratificado),Línea base trivial,prueba,Exactitud balanceada,0.141463,,
+Dummy (estratificado),Línea base trivial,prueba,F1 ponderado,0.37408,,
+Regresión logística,Modelo base,prueba,Accuracy,0.724138,0.721623,0.726691
+Regresión logística,Modelo base,prueba,Precisión macro,0.652757,0.640373,0.666866
+Regresión logística,Modelo base,prueba,Recall macro,0.531435,0.524501,0.538114
+Regresión logística,Modelo base,prueba,F1 macro,0.557298,0.550837,0.564055
+Regresión logística,Modelo base,prueba,Exactitud balanceada,0.531435,0.524501,0.538114
+Regresión logística,Modelo base,prueba,F1 ponderado,0.715836,0.713173,0.718712
+Regresión logística,Modelo base,entrenamiento,Accuracy,0.725754,,
+Regresión logística,Modelo base,entrenamiento,Precisión macro,0.658805,,
+Regresión logística,Modelo base,entrenamiento,Recall macro,0.533529,,
+Regresión logística,Modelo base,entrenamiento,F1 macro,0.558458,,
+Regresión logística,Modelo base,entrenamiento,Exactitud balanceada,0.533529,,
+Regresión logística,Modelo base,entrenamiento,F1 ponderado,0.717369,,

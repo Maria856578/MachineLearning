@@ -1,0 +1,43 @@
+# Configuración del libro
+title: "Segundo Entregable: Clasificación de Cobertura Forestal"
+author: "Ana Galván, Valeria Oñate y María José Ruiz"
+copyright: "2026"
+logo: logo.png
+
+execute:
+  # El notebook se guarda ejecutado: solo se ejecuta de nuevo si se borran sus salidas.
+  execute_notebooks: auto
+  timeout: 3600
+  allow_errors: false
+
+only_build_toc_files: true
+exclude_patterns: [_build, docs, "**.ipynb_checkpoints"]
+
+latex:
+  latex_documents:
+    targetname: covertype_entregable2.tex
+
+bibtex_bibfiles:
+  - references.bib
+
+html:
+  use_issues_button: false
+  use_repository_button: false
+  use_edit_page_button: false
+  use_download_button: true
+  home_page_in_navbar: true
+  extra_navbar: ""
+  extra_footer: "Ana Galván, Valeria Oñate y María José Ruiz · Machine Learning · 2026"
+
+parse:
+  myst_enable_extensions:
+    - dollarmath
+    - amsmath
+    - colon_fence
+
+sphinx:
+  config:
+    language: es
+    nb_output_stderr: remove
+    bibtex_reference_style: author_year
+    html_show_copyright: true
