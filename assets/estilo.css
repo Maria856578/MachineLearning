@@ -1,0 +1,154 @@
+/* Estilos del dashboard de cobertura forestal (Dash carga automáticamente esta carpeta). */
+:root {
+  --esmeralda: #0f9d58;
+  --bosque: #1b6f5c;
+  --pino: #4c9a2a;
+  --ocre: #e0a526;
+  --terracota: #d9643a;
+  --cielo: #1e88e5;
+  --lago: #00acc1;
+  --lavanda: #8e5ea2;
+  --tinta: #1f2d27;
+  --tinta-suave: #4f6159;
+  --fondo: #f3f8f2;
+}
+
+body {
+  background: radial-gradient(circle at 10% 0%, #e3f5e7 0%, var(--fondo) 45%, #eef6fb 100%);
+  font-family: "Nunito", "Segoe UI", sans-serif;
+  color: var(--tinta);
+}
+
+/* Encabezado principal */
+.hero {
+  background: linear-gradient(120deg, #0b5d45 0%, #0f9d58 45%, #00acc1 100%);
+  color: #fff;
+  border-radius: 0 0 28px 28px;
+  padding: 28px 32px 22px;
+  box-shadow: 0 10px 30px rgba(11, 93, 69, 0.25);
+}
+.hero h1 { font-weight: 900; font-size: 2.05rem; margin-bottom: 4px; letter-spacing: -0.5px; }
+.hero .subtitulo { font-size: 1.05rem; opacity: 0.95; }
+.hero .badge { font-size: 0.85rem; font-weight: 700; margin: 4px 6px 0 0; padding: 7px 12px; }
+
+.boton-libro {
+  background: linear-gradient(90deg, #ffb300, #ff7043) !important;
+  border: none !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  border-radius: 999px !important;
+  padding: 10px 22px !important;
+  box-shadow: 0 6px 18px rgba(255, 112, 67, 0.45);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.boton-libro:hover { transform: translateY(-2px) scale(1.02); box-shadow: 0 10px 24px rgba(255, 112, 67, 0.55); }
+
+/* Pestañas */
+.nav-tabs { border-bottom: none; gap: 8px; }
+.nav-tabs .nav-link {
+  border: none !important;
+  border-radius: 14px 14px 0 0 !important;
+  background: #dfeee3;
+  color: var(--bosque) !important;
+  font-weight: 800;
+  font-size: 1.05rem;
+  padding: 12px 22px;
+}
+.nav-tabs .nav-link.active { background: #fff !important; color: var(--esmeralda) !important; box-shadow: 0 -4px 14px rgba(15, 157, 88, 0.15); }
+.contenido-tab { background: #fff; border-radius: 0 20px 20px 20px; padding: 26px; box-shadow: 0 8px 30px rgba(31, 45, 39, 0.08); }
+
+/* Tarjetas */
+.tarjeta {
+  border: none !important;
+  border-radius: 20px !important;
+  box-shadow: 0 6px 22px rgba(31, 45, 39, 0.09);
+  overflow: hidden;
+  height: 100%;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.tarjeta:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(31, 45, 39, 0.14); }
+.tarjeta .card-header {
+  border: none;
+  color: #fff;
+  font-weight: 800;
+  font-size: 1.08rem;
+  padding: 12px 18px;
+}
+.cab-verde { background: linear-gradient(90deg, #0b7a4b, #23b26d); }
+.cab-azul { background: linear-gradient(90deg, #1565c0, #26a6e8); }
+.cab-ocre { background: linear-gradient(90deg, #c77d0a, #f2b134); }
+.cab-terracota { background: linear-gradient(90deg, #b5432a, #ef7b4f); }
+.cab-lavanda { background: linear-gradient(90deg, #6a3d8f, #a879c9); }
+.cab-lago { background: linear-gradient(90deg, #00838f, #26c6da); }
+
+/* Nota didáctica */
+.nota {
+  background: linear-gradient(90deg, #fff8e1, #fffdf6);
+  border-left: 6px solid var(--ocre);
+  border-radius: 12px;
+  padding: 10px 14px;
+  font-size: 0.93rem;
+  color: var(--tinta-suave);
+  margin-top: 10px;
+}
+.nota b { color: var(--tinta); }
+.nota a { color: var(--terracota); font-weight: 800; text-decoration: none; }
+
+/* Indicadores numéricos */
+.kpi {
+  border-radius: 18px;
+  padding: 16px 18px;
+  color: #fff;
+  height: 100%;
+  box-shadow: 0 6px 18px rgba(31, 45, 39, 0.12);
+}
+.kpi .valor { font-size: 1.9rem; font-weight: 900; line-height: 1.1; }
+.kpi .etiqueta { font-size: 0.9rem; opacity: 0.95; font-weight: 700; }
+.kpi .detalle { font-size: 0.8rem; opacity: 0.9; }
+.kpi-1 { background: linear-gradient(135deg, #0b7a4b, #2ec27e); }
+.kpi-2 { background: linear-gradient(135deg, #1565c0, #42a5f5); }
+.kpi-3 { background: linear-gradient(135deg, #c77d0a, #f6c344); }
+.kpi-4 { background: linear-gradient(135deg, #b5432a, #f08a5d); }
+.kpi-5 { background: linear-gradient(135deg, #6a3d8f, #b186d6); }
+
+/* Especies y áreas */
+.especie {
+  border-radius: 16px;
+  padding: 12px 14px;
+  background: #fff;
+  border-top: 7px solid;
+  box-shadow: 0 4px 14px rgba(31, 45, 39, 0.08);
+  height: 100%;
+  font-size: 0.9rem;
+}
+.especie h6 { font-weight: 900; margin-bottom: 4px; }
+.especie .cientifico { font-style: italic; color: var(--tinta-suave); font-size: 0.82rem; }
+.area {
+  border-radius: 18px;
+  padding: 14px 16px;
+  color: #fff;
+  height: 100%;
+  box-shadow: 0 6px 18px rgba(31, 45, 39, 0.12);
+  font-size: 0.9rem;
+}
+.area h5 { font-weight: 900; margin-bottom: 2px; }
+
+.banner { width: 100%; border-radius: 22px; box-shadow: 0 10px 28px rgba(30, 136, 229, 0.25); display: block; }
+
+.panel-explicacion {
+  border-radius: 14px;
+  background: linear-gradient(135deg, #e8f5e9, #e3f2fd);
+  padding: 14px 16px;
+  font-size: 0.93rem;
+  min-height: 120px;
+}
+.panel-explicacion h6 { font-weight: 900; }
+
+.etiqueta-control { font-weight: 800; font-size: 0.85rem; color: var(--bosque); margin-bottom: 4px; }
+.seccion-titulo { font-weight: 900; color: var(--bosque); margin: 6px 0 14px; }
+.pie { color: var(--tinta-suave); font-size: 0.85rem; text-align: center; padding: 22px 0 30px; }
+
+@media (max-width: 768px) {
+  .hero h1 { font-size: 1.45rem; }
+  .contenido-tab { padding: 14px; border-radius: 0 0 16px 16px; }
+}

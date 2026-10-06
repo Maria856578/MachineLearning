@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ilustración de los pisos altitudinales de las Montañas Rocosas">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e88e5"/>
+      <stop offset="0.55" stop-color="#64b5f6"/>
+      <stop offset="1" stop-color="#ffe0a3"/>
+    </linearGradient>
+    <linearGradient id="lejana" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7e8fc9"/>
+      <stop offset="1" stop-color="#9fb3de"/>
+    </linearGradient>
+    <clipPath id="montana">
+      <path d="M0 300 L0 235 L120 190 L210 205 L330 130 L420 150 L520 62 L600 40 L690 75 L760 60 L860 120 L950 105 L1060 170 L1140 160 L1200 185 L1200 300 Z"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="300" fill="url(#cielo)"/>
+  <circle cx="1040" cy="62" r="34" fill="#ffd54f" opacity="0.95"/>
+  <circle cx="1040" cy="62" r="50" fill="#ffd54f" opacity="0.25"/>
+  <path d="M0 230 L160 140 L260 170 L380 95 L470 120 L640 30 L780 95 L900 70 L1020 135 L1200 110 L1200 300 L0 300 Z" fill="url(#lejana)" opacity="0.55"/>
+  <g clip-path="url(#montana)">
+    <rect y="0" width="1200" height="82" fill="#f5f7ff"/>
+    <rect y="82" width="1200" height="48" fill="#a98bc9"/>
+    <rect y="130" width="1200" height="55" fill="#1b6f5c"/>
+    <rect y="185" width="1200" height="45" fill="#4c9a2a"/>
+    <rect y="230" width="1200" height="70" fill="#c8a13a"/>
+  </g>
+  <path d="M0 235 L120 190 L210 205 L330 130 L420 150 L520 62 L600 40 L690 75 L760 60 L860 120 L950 105 L1060 170 L1140 160 L1200 185" fill="none" stroke="#ffffff" stroke-width="3" stroke-opacity="0.7"/>
+  <g fill="#0f3d2e" opacity="0.85">
+    <path d="M60 300 l14 -40 l14 40 z"/><path d="M95 300 l11 -32 l11 32 z"/><path d="M150 300 l15 -44 l15 44 z"/>
+    <path d="M250 300 l13 -38 l13 38 z"/><path d="M300 300 l16 -46 l16 46 z"/><path d="M880 300 l14 -40 l14 40 z"/>
+    <path d="M930 300 l12 -35 l12 35 z"/><path d="M1010 300 l15 -42 l15 42 z"/><path d="M1080 300 l13 -37 l13 37 z"/>
+    <path d="M1140 300 l16 -46 l16 46 z"/>
+  </g>
+  <path d="M0 292 C200 278 330 300 520 286 S900 276 1200 290 L1200 300 L0 300 Z" fill="#29b6f6" opacity="0.9"/>
+  <g font-family="Nunito, Segoe UI, sans-serif" font-weight="800" font-size="21" fill="#ffffff" stroke="#0b2a20" stroke-opacity="0.55" stroke-width="3" paint-order="stroke">
+    <text x="500" y="122">❄ Krummholz · límite arbóreo</text>
+    <text x="500" y="166">🌲 Pícea y abeto · subalpino</text>
+    <text x="500" y="215">🌲 Pino lodgepole y álamo temblón · montano superior</text>
+    <text x="500" y="262">🌳 Pino ponderosa y abeto Douglas · montano inferior</text>
+  </g>
+  <text x="24" y="285" font-family="Nunito, Segoe UI, sans-serif" font-weight="800" font-size="19" fill="#ffffff" stroke="#0b2a20" stroke-opacity="0.55" stroke-width="3" paint-order="stroke">💧 Álamo y sauce · ribera del Cache la Poudre</text>
+</svg>
